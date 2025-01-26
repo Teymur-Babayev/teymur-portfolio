@@ -1,0 +1,144 @@
+.style-switcher {
+    position: fixed;
+    top: 20px;
+    right: 0;
+    z-index: 10;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #d4d4e3;
+    border-right: none;
+    border-radius: 0 0 0 5px;
+    transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+.style-switcher.open {
+    transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+}
+
+.style-switcher h5 {
+    font-size: 16px;
+    // color: #302e4d;
+    margin-bottom: 8px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e8dfec;
+}
+
+.style-switcher ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.style-switcher label {
+    font-weight: bold;
+    margin: 0 2px;
+    color: #393939;
+}
+
+.style-switcher ul li {
+    display: inline-block;
+}
+
+.style-switcher ul li p {
+    height: 30px;
+    width: 30px;
+    display: block;
+    border-radius: 50%;
+    cursor: pointer;
+    text-decoration: none;
+    margin-right: 2px;
+}
+
+.style-switcher .toggle-style-switcher {
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    background-color: #ffffff;
+    left: -46px;
+    top: -1px;
+    border: 1px solid #d4d4e3;
+    border-right: none;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px 0 0 5px;
+}
+
+.style-switcher .toggle-style-switcher .fa {
+    font-size: 20px;
+    line-height: 43px;
+}
+
+/* Dark Body */
+
+body.dark,
+body.dark .section,
+body.dark .style-switcher,
+body.dark .style-switcher .toggle-style-switcher {
+    background-color: #151515aa;
+}
+
+body.dark .aside,
+body.dark .contact .contact-form .form-item .form-control,
+body.dark .service .service-item .service-item-inner,
+body.dark .about .about-content .timeline,
+body.dark .about .about-content .skills-list {
+    background-color: #151515aa;
+}
+
+body.dark .aside .nav li h4,
+body.dark .contact .contact-info-item h4,
+body.dark .portfolio .portfolio-filter button,
+body.dark .service .service-item .service-item-inner h4,
+body.dark .about .about-content .timeline .timeline-title,
+body.dark .about .about-content .skills .skill-item h5,
+body.dark .about .about-content .skills-list span,
+body.dark .about .about-content .personal-info .info-item p,
+body.dark .about .about-content .about-text h2,
+body.dark .home .intro h2,
+body.dark .home .intro h1,
+body.dark .about .about-content h3.title,
+body.dark .section-title h2,
+body.dark .aside .logo p,
+body.dark .style-switcher label {
+    color: #ffffff;
+}
+
+body.dark .home .intro span,
+body.dark .contact .contact-form .form-item .form-control,
+body.dark .contact .contact-info-item p,
+body.dark .contact .contact-form .form-item p,
+body.dark .contact .contact-form span,
+body.dark .service .service-item .service-item-inner p,
+body.dark .about .about-content .timeline .timeline-text,
+body.dark .about .about-content .timeline .timeline-text b a,
+body.dark .about .about-content .timeline .timeline-date,
+body.dark .about .about-content .skills .skill-item .skill-porcent,
+body.dark .about .about-content .skills-list span,
+body.dark .about .about-content .personal-info .info-item .item-title,
+body.dark .about .about-content .personal-info .info-item .item-content,
+body.dark .about .about-content .about-text p,
+body.dark .style-switcher .toggle-style-switcher i {
+    color: #e9e9e9;
+}
+
+body.dark .about .about-content .personal-info .info-item,
+body.dark .aside,
+body.dark .contact .contact-form .form-item .form-control,
+body.dark .portfolio .portfolio-item-innner,
+body.dark .service .service-item .service-item-inner,
+body.dark .about .about-content .timeline,
+body.dark .aside .nav li h4,
+body.dark .about .about-content .skills-list {
+    border-color: #393939;
+}
+
+body.dark .shadow-dark {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}

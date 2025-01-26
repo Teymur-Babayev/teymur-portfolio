@@ -1,0 +1,53 @@
+$main-color: #ec1839;
+
+.aside .logo p::before {
+    border-top: 4px solid var(--main-color) !important;
+    border-left: 4px solid var(--main-color) !important;
+}
+
+.aside .logo p::after {
+    border-right: 4px solid var(--main-color) !important;
+    border-bottom: 4px solid var(--main-color) !important;
+}
+
+.aside .nav li h4:hover,
+body.dark .aside .nav li h4:hover,
+.portfolio .portfolio-item .portfolio-info .icon .fa,
+.lightbox .lightbox-controls .prev-item .fa,
+.contact .contact-info-item .icon .fa,
+.lightbox .lightbox-controls .next-item .fa,
+.about .about-content .about-text h2 span,
+.portfolio .portfolio-filter button.active,
+body.dark .portfolio .portfolio-filter button.active,
+.service .service-item .service-item-inner .icon .fa,
+body.dark .aside .nav li h4.active,
+.aside .nav li h4.active,
+.style-switcher h5,
+.lightbox .lightbox-content .caption-link i {
+    color: var(--main-color) !important;
+}
+
+.btn,
+.service .service-item .service-item-inner:hover .icon,
+.about .about-content .timeline .circle-dot,
+.about .about-content .skills .skill-item .progress .progress-in,
+.about .about-content .skills-list span,
+.about .about-content .timeline-item::before,
+.aside .nav-toggler span,
+.section-title h2::before,
+.section-title h2::after,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a,
+.lightbox .lightbox-content .lightbox-skills .lightbox-skill-item {
+    background-color: var(--main-color) !important;
+}
+
+.home .intro img {
+    border: 8px solid var(--main-color) !important;
+}
+
+.portfolio .portfolio-filter button.active,
+.contact iframe {
+    border-color: var(--main-color) !important;
+}
