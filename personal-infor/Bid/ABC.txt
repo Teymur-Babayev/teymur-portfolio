@@ -1,0 +1,46 @@
+t-e-l-e-g-ra-m address :  dream_7106
+
+skype address :live:.cid.c8f7125a7edbe508
+
+Please contact me to there.
+
+I want to discuss with you.
+
+
+Custom White - TShirt
+
+276
+
+
+Hope you are doing well!
+
+
+This experience matched the challenges of your project and it gave me the confidence to bid.
+I am really confident in this project, but I feel sorry that you might not be able to make a decision because of the lack of good reviews and stars.
+If you have the courage to work with me and talk to me, you will learn about my skills and I will do my best to perfectly carry out your project with my experience and skills.
+I am ready for you and waiting here.
+Thank you.
+
+
+This is the customer's requirement.
+Understand the requirements of the job and write a bid statement that matches them.
+First, write about the issues that may arise based on the description and the customer's opinion about the problem.
+In particular, describe in detail your experience in creating the format that the customer wants so that they can believe that you have done this type of work before.
+In particular, when introducing your experience, attach details about any problems that you encountered during the work and how you resolved them.
+Write a complete bid statement of less than 1500 characters.
+
+   onApprove: function(data, actions) {
+        return actions.order.capture().then(function(details) {
+            alert('Transaction completed by ' + details.payer.name.given_name);
+        });
+    },
+    onInit: function(data, actions) {
+       
+        actions.disable();
+        setTimeout(function(){
+            const paypalAccountCheckbox = document.querySelector('input[name="PAYMENTREQUEST_0_CREATE_ACCOUNT"]');
+            if (paypalAccountCheckbox) {
+                paypalAccountCheckbox.checked = false;
+            }
+        }, 500); 
+    }

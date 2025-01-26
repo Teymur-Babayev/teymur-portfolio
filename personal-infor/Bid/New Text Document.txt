@@ -1,0 +1,61 @@
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+Project: Healthcare Landing Page: Design + Tailwind UI Implementation
+
+Looking for a designer who can both design and implement a modern, accessible landing page for our healthcare technology service focused on elderly care.
+
+Required Skills:
+- Expert with Tailwind UI/CSS
+- React.js implementation
+- Landing page design experience
+- Healthcare/medical design experience preferred
+- Git/GitHub workflow
+- Strong accessibility focus
+
+Scope & Deliverables:
+1. Design & Implementation
+   - Full landing page design
+   - Tailwind UI/React implementation
+   - Mobile responsive
+   - Basic animations
+   - Clean, documented code
+   - GitHub collaboration
+
+2. Stock Photos
+   - Selection of healthcare/elderly imagery
+   - License costs included
+
+Please share:
+1. Your landing page portfolio
+2. Examples of Tailwind UI work
+3. Estimated hours and timeline (1-2 weeks)
+4. Hourly rate
+
+Note: Basic Tailwind implementation exists. Project uses GitHub + Vercel for deployment.
+
+
+
+Hello!
+https://teymur-portfolio-64b34.web.app/about
+
+I know all the angels about Design + Tailwind UI Implementation.
+I am ready for you and waiting in here.
+Thanks.
+
+Please share links to 2-3 landing pages you've built using Tailwind UI/React. Include your role in each project.
+This is Game manual. https://docs.google.com/document/d/14vB9HIOraUPX7Wlwzb0hhjUjBaI7d6nwH79ljwzD3AU/edit?tab=t.0
+
+URL : http://5.253.43.204:5173
+What's your experience level with Tailwind UI (not just Tailwind CSS)? Please be specific about components you've customized.
+I have extensive experience using Tailwind UI for building modern, responsive user interfaces. In the past year, I’ve worked on several projects, including e-commerce sites and landing pages, where I’ve heavily used Tailwind UI components such as navigation bars, modals, pricing tables, hero sections, and forms. For example, on one… more
+Can you commit to completing this project within 1-2 weeks? What's your weekly availability?
+I can commit to completing the project within the 1-2 week timeframe.
+You current project which used Tailwind CSS looks like perfect fit for my skills sets.
+Have you worked on any healthcare-related websites? If yes, please share examples.
+https://teymur-portfolio-64b34.web.app/portfolio
+
+I will do my best for your project .
+
+
+
+
