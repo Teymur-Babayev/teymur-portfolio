@@ -1,45 +1,108 @@
+1.In this table, the sum of the 24th is 103.8294.
+payout is the number of x that cashes out each time. 
+Therefore, this means that the cash out button is pressed only when it is 10x.
+Then, wager is the amount you bet each time, and profit is the profit you get if you meet 10x at that time.
+sum means the total amount of money spent up to each step if 10x does not come out every time.
+For example, let's look at the first one.
+When the initial amount is set to $1, if you meet 10x, $1 * 10 = $10. Therefore, if you remove the initial amount $1, you get $9.
+If 10x does not come out, you lose $1, which is stored in sum. Secondly, if you use the amount as $1.1111 and meet 10x, you will get $1.1 * 10 = 11, that is, you will get $9 after subtracting the two $2 bets. If you proceed like this up to 24 times while adjusting the bet amount, if you meet 10x or more at least once during the 24 times, you will earn all the bet amount and $9 more.
 
-As an experienced  Senior Full Stack expert who Mastered PHP(Laravel), MERN stack, C#, ASP.NET MVC, BlockChain, SEO, Restful API, Database Management with over 8 years of experience.
+2.
+If you want, I can show you how to get $100 from your initial $100 immediately on your computer.
 
-I made $30 0000 by block chain and Shopify, E-commerce Site and Shopping Site develope in 2022.
+Let me first explain to you in detail whether my code really makes money.
 
-If you borrow Freelancer and Upwork  account to me.
-I will pay you 30% of my total profits.
-How do you think?
+An 80% success rate 3x marketing code will give you $3000,
 
-You will get over $2000 every month.
-Do you have Freelancer account?
+90% success rate 10x marketing code will give you $5000,
 
-If you work with me very hard, I will help you very coolly
-I know all the angles in this field.
+and 95% success rate code will give you $10000.
 
-Do you have it now?
-If you don't have it, you can create it with 3min.
+By investing $100 you can earn $500 per day.
+I can show it immediately if you wish.
 
-Do you know anything about Freelancer.com?
+I am short on money because I bought a house,
+so I am trying to sell this code I currently own to raise initial capital..
 
-I need to use a good account to achieve my current goals.
-It requires my skill and good standing of the country to bid on assignments worth more than $3000.
 
-After creating an account, you need to verification your ID, Payment, Phone, and Email and leave the computer on for me at least 15 hours out of 24 hours a day.
-Then I will use your account on your computer through anydesk to get assignments and earn money.
-Then you can take 30% of the money in the account and send me 70%.
+He said that this code has a success rate of 93% to 100%, and only gave me the external part.
 
-Teymur Babayev sent the following message at 
+He is not from the same country as me, so he would be very accurate in this kind of problem. So I paid half of the money first and got the code.
 
-Hahaahah!!!
-It doesn't mean I buy your account,
-I just use it on your computer and if you are very sincere I can work with you for a long time.
+But it only works, the key is not unlocked.
 
-I will earn money from Freelancer.com with that account and it will be withdraw to your account.
-Freelacer.com's regulations state that if you have a US account, you must verify your identity on a computer with a US IP before you can withdraw money from the account.
-However, you need to verify your ID, Payment, Phone, and Email.
-Then you just take 30% of the total and send the rest to me every month.
+I bought a code with 4 methods, and it spent all the money in my account while unlocking the key.
 
-From now on, all the money I earn will go into your account.
-If you ask me to pay in advance now, I don't think we will be friends for long.
-That means if I earn over $10,000 in your account, how can I trust you?
+There is a good method, but I don't have money to try.
 
-I get to use it on your computer through Anydesk.
-I can not use it in here or my computer.
-It is Freelacer.com's rule.
+And if many people use this code, the bc management can change the seed, so the least number of people should use this code.
+
+3.
+
+First, I will explain the current code structure and how to use it.
+To be honest, I am earning a lot of profit with this code.
+I am thinking of selling this code to increase my initial capital, because spent money from various sources such as houses and cars.
+If you invest $100, you can make $100 more in 1 hour.
+You can also make more money by investing $1000.
+
+I don't have much time, but I will explain the code logic for you.
+Listen to the explanation and tell me whether this code can make you money.
+
+First, I will explain the method that aims for 10x.
+If you have a lot of experience, this is a method that you can earn if you run it when you are sure that you will get 10x in the next 30 times.
+
+When a number greater than 10 comes out on the 24th time, it is 100 times the current initial bet. Therefore, if a number greater than 10x comes out even once in the 24th time, you will earn 10 times the initial bet, excluding all bets.
+
+This requires analyzing everything about the current state and can make a lot of money, but the flaw is that you have to monitor the situation.
+
+However, this is also monitored by the code and starts automatically, so it stops the moment it is first earned.
+
+The amount of money you earn is proportional to the initial investment.
+
+You can do it about 3,000 times a day, but if you make a judgment based on the this state there are times when it succeeds, but there are also times when you suffer huge losses.
+When the 10x interval is 75, there are usually 3-4 times a day, and when it exceeds 30, there are more than 10 times.
+Therefore, a wrong judgment can result in a huge loss of funds.
+To solve this, the current code introduces blockchain technology to hash each stored block and analyzes records from up to 6,000 data ago from the selected block.
+
+If the analysis results show that it can start, the code starts automatically, and from the moment it starts, it combines the current situation and 6,000 situation data, and automatically stops if it exceeds the safe level record.
+
+For this analysis, sophisticated algorithms and mathematical probability distributions were calculated, and the results of these calculations were used to complete the current program.
+
+He said that calculated a sophisticated algorithm and mathematical probability distribution for analysis, and spent a whopping over $180,000 to make the current program successful using the results of these calculations.
+
+He said that this code is a code that succeeds when executed, and even if it fails occasionally, it will be about 1 out of 15 times.
+
+Then tell me if this code can actually make money.
+
+I think because you don't have enough money right now, it's not too late to just buy one method and make money with it first and then buy another one.
+
+So I think that will give him $5000 and unlock the key with only one of the 4 methods.
+
+So far, I have analyzed the code and concluded that I can unlock the key.
+
+So I think that if I can figure out the principles and rules of how one method works, I can easily figure out all the other methods.
+
+If you can change and update the code as you want, I believe that you can use this code on other computers or for other purposes in the future and that it will bring good results.
+
+He said that the code has a success rate of at least 93%, and when the environment is good, the success rate can be up to 100%.
+
+4.
+
+It can help you increase your income before you even make it.
+
+If you only have 30k you can earn $8000 every day.
+
+With the money you have, we can help you earn $8000 a day just by running the code every day.
+
+Our team is currently trying to sell this code to one or two trusted people for the purpose of increasing initial capital.
+
+You can start with $100 and earn up to $300 in a few hours.
+
+If you start with $100, you will earn $9 every time you get 10x or more within 24 times.
+If you start with $1000, you will earn $90 every time.
+As you can see from this graph, there were almost 20 or more 10x or more values ​​in 30 minutes.
+So if you start with $1000, you will earn $1800.
+
+For this analysis, sophisticated algorithms and mathematical probability distributions were calculated, and the results of these calculations were used to complete the current program.
+
+If you started with $100, you could earn $180. $9 * 20 = $180
